@@ -10,14 +10,13 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-
     <groupId>com.gaoxi</groupId>
-    <artifactId>gaoxi-analysis</artifactId>
+    <artifactId>gaoxi-redis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-
-    <name>gaoxi-analysis</name>
+    <name>gaoxi-redis</name>
     <description>Demo project for Spring Boot</description>
+
 
 </project>

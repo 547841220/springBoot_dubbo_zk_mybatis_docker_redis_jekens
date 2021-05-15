@@ -1,13 +1,13 @@
-package com.gaoxi.gaoxi;
+package com.gaoxi_order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GaoxiApplication {
+public class GaoxiOrderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GaoxiApplication.class, args);
+        SpringApplication.run(GaoxiOrderApplication.class, args);
     }
 
 }
